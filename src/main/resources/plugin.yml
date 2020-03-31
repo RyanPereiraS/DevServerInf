@@ -1,0 +1,12 @@
+name: DevServerInf
+main: dev.gamer.DevServerInf
+version: 1.0.0
+commands:
+  discord:
+    description: Veja o discord do servidor.
+  site:
+    description: Veja o site do servidor.
+  forum:
+    description: Veja o forum do servidor.
+  redes:
+    description: Veja todas as redes sociais do servidor.
